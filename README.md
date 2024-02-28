@@ -1,2 +1,3 @@
-# nuforc_ufo
-STATS 141XP Capstone Project
+### NUFORC UFO Data Science Capstone
+
+STATS 141XP Capstone Project on UFO Data from NUFORC
