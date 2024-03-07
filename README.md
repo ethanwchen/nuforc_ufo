@@ -12,6 +12,8 @@ Shapes with their most frequent locations and reporting times:
 
 <img width="1432" alt="shape_table" src="https://github.com/ethanwchen/nuforc_ufo/assets/96222805/21695d32-ff12-4ac4-8c9f-18d59eaa2314">
 
+![antenna](https://github.com/ethanwchen/nuforc_ufo/assets/96222805/3c0d02d9-0a93-4523-aa8f-f43f9a080cb6)
+
 #### Notes on Higdon's Case:
 
 - Aliens with antennas represent that of "My Favorite Martian" (1963).
